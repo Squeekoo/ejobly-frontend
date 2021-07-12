@@ -1,3 +1,9 @@
+# Jobly React App
+
+As one of my projects for Springboard, I created and deployed the React front-end for this [Jobly App](https://ejoblyfandb.surge.sh/).
+
+This repository contains all front-end code. To view the back-end code, visit [ejobly-backend](https://github.com/Squeekoo/ejobly-backend).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
