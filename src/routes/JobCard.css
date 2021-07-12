@@ -1,0 +1,10 @@
+.JobCard:hover {
+  background-color: rgba(59, 161, 59, 0.281);
+  transition: 0.5s background-color;
+}
+
+.JobCard .btn:hover {
+  background-color: white;
+  color: green;
+  transition: 0.5s background-color color;
+}
